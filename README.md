@@ -1,3 +1,3 @@
 # Shell
 Schell Scripts
-## shell script example
+## shell script examples
